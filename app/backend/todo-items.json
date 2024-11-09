@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "text": "Изучить NodeJS фреймворк Fastify",
+    "done": true
+  },
+  {
+    "id": 2,
+    "text": "Изучить ReactJS",
+    "done": true
+  },
+  {
+    "id": 3,
+    "text": "Написать приложение и протестировать его",
+    "done": false
+  }
+]
